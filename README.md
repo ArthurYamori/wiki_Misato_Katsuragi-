@@ -15,3 +15,4 @@ Consiste em 3 partes sobre curiosidades da Misato Katsuragi-
 Você pode acessar o site atrevés do link 👉 https://wikimisato.netlify.app/ 
 
 Um breve preview do site:
+![text](https://photos.app.goo.gl/gZ7mZWUaipbKZfGs7)
